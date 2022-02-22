@@ -1,14 +1,14 @@
 # Spring_Boot_Mission
-##1차 미션 스크린샷
+## 1차 미션 스크린샷
 
-###Basic
+### Basic
 
-###Challenge
+### Challenge
 
 ---
-##2차 미션 스크린샷
+## 2차 미션 스크린샷
 
-###Basic
+### Basic
 
 ![board-create](https://user-images.githubusercontent.com/65766105/155077058-93adefec-f02d-4143-ab01-9b4b9047e415.JPG)
 
@@ -18,7 +18,7 @@
 
 ![post-delete](https://user-images.githubusercontent.com/65766105/155077108-06a5c461-8e4d-4218-ad8a-4a8bc7d8c5e6.JPG)
 
-###Challenge
+### Challenge
 
 
 ---
