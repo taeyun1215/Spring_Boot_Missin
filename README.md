@@ -8,6 +8,7 @@ Challenge
 2차 미션 스크린샷
 
 Basic
+
 ![board-create](https://user-images.githubusercontent.com/65766105/155077058-93adefec-f02d-4143-ab01-9b4b9047e415.JPG)
 
 ![board-post-create](https://user-images.githubusercontent.com/65766105/155077083-ac1e3ebf-86fb-47a2-9585-f261d6c84e00.JPG)
