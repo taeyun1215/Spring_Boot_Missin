@@ -18,6 +18,11 @@
 
 ![post-delete](https://user-images.githubusercontent.com/65766105/155077108-06a5c461-8e4d-4218-ad8a-4a8bc7d8c5e6.JPG)
 
+<span style="color:red">게시글 삭제 이슈(게시글 삭제엔 비밀번호가 필요한데 그 비밀번호를 정확히 입력을 하여도 삭제 불가능함.)</span>
+
+![image](https://user-images.githubusercontent.com/65766105/155077682-1b9ed7ab-f19c-484b-9cb4-fb97c40d0544.png)
+
+
 ### Challenge
 
 
